@@ -1,0 +1,15 @@
+/home/igor/App/obj/Debug/net7.0/consoleApp2.csproj.AssemblyReference.cache
+/home/igor/App/obj/Debug/net7.0/consoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/App/obj/Debug/net7.0/consoleApp2.AssemblyInfoInputs.cache
+/home/igor/App/obj/Debug/net7.0/consoleApp2.AssemblyInfo.cs
+/home/igor/App/obj/Debug/net7.0/consoleApp2.csproj.CoreCompileInputs.cache
+/home/igor/App/bin/Debug/net7.0/consoleApp2
+/home/igor/App/bin/Debug/net7.0/consoleApp2.deps.json
+/home/igor/App/bin/Debug/net7.0/consoleApp2.runtimeconfig.json
+/home/igor/App/bin/Debug/net7.0/consoleApp2.dll
+/home/igor/App/bin/Debug/net7.0/consoleApp2.pdb
+/home/igor/App/obj/Debug/net7.0/consoleApp2.dll
+/home/igor/App/obj/Debug/net7.0/refint/consoleApp2.dll
+/home/igor/App/obj/Debug/net7.0/consoleApp2.pdb
+/home/igor/App/obj/Debug/net7.0/consoleApp2.genruntimeconfig.cache
+/home/igor/App/obj/Debug/net7.0/ref/consoleApp2.dll
